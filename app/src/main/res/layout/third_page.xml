@@ -61,7 +61,7 @@
         <TextView
             style="@style/TextViewStyle3"
             android:layout_margin="10dp"
-            android:text="Age  : "
+            android:text="Numero Telephone :"
             android:textStyle="bold"
             android:textSize="30sp" />
 
@@ -71,7 +71,7 @@
             android:layout_margin="10dp"
             android:enabled="false"
             android:textStyle="bold"
-            android:text="19 ans"
+            android:text="+212784849495"
             android:textSize="30sp" />
 
         <TextView
